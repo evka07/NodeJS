@@ -1,0 +1,122 @@
+[
+  {
+    "gender": "F",
+    "firstName": "Viktoria",
+    "lastName": "Brown",
+    "age": 50
+  },
+  {
+    "gender": "F",
+    "firstName": "Anna",
+    "lastName": "Jones",
+    "age": 70
+  },
+  {
+    "gender": "F",
+    "firstName": "Viktoria",
+    "lastName": "Williams",
+    "age": 18
+  },
+  {
+    "gender": "M",
+    "firstName": "Piotr",
+    "lastName": "Williams",
+    "age": 55
+  },
+  {
+    "gender": "F",
+    "firstName": "Agnieszka",
+    "lastName": "Williams",
+    "age": 20
+  },
+  {
+    "gender": "M",
+    "firstName": "John",
+    "lastName": "Brown",
+    "age": 26
+  },
+  {
+    "gender": "F",
+    "firstName": "Johanna",
+    "lastName": "Johnson",
+    "age": 50
+  },
+  {
+    "gender": "F",
+    "firstName": "Viktoria",
+    "lastName": "Johnson",
+    "age": 44
+  },
+  {
+    "gender": "F",
+    "firstName": "Nika",
+    "lastName": "Brown",
+    "age": 39
+  },
+  {
+    "gender": "F",
+    "firstName": "Anna",
+    "lastName": "Jones",
+    "age": 74
+  },
+  {
+    "gender": "F",
+    "firstName": "Nika",
+    "lastName": "Davis",
+    "age": 38
+  },
+  {
+    "gender": "F",
+    "firstName": "Nika",
+    "lastName": "Brown",
+    "age": 34
+  },
+  {
+    "gender": "F",
+    "firstName": "Agnieszka",
+    "lastName": "Davis",
+    "age": 74
+  },
+  {
+    "gender": "F",
+    "firstName": "Agnieszka",
+    "lastName": "Williams",
+    "age": 53
+  },
+  {
+    "gender": "F",
+    "firstName": "Anna",
+    "lastName": "Davis",
+    "age": 63
+  },
+  {
+    "gender": "M",
+    "firstName": "Will",
+    "lastName": "Williams",
+    "age": 36
+  },
+  {
+    "gender": "M",
+    "firstName": "Alex",
+    "lastName": "Jones",
+    "age": 24
+  },
+  {
+    "gender": "F",
+    "firstName": "Johanna",
+    "lastName": "Johnson",
+    "age": 38
+  },
+  {
+    "gender": "F",
+    "firstName": "Johanna",
+    "lastName": "Brown",
+    "age": 18
+  },
+  {
+    "gender": "M",
+    "firstName": "Piotr",
+    "lastName": "Davis",
+    "age": 65
+  }
+]
